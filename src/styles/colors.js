@@ -117,6 +117,10 @@ export const cyanA100 = '#84ffff';
 export const cyanA200 = '#18ffff';
 export const cyanA400 = '#00e5ff';
 export const cyanA700 = '#00b8d4';
+export const classicBlue = '#00aadf';
+export const classicBlueA100 = '#90d2e6';
+export const classicBlueA200 = '#d0dee2';
+
 
 export const teal50 = '#e0f2f1';
 export const teal100 = '#b2dfdb';
@@ -259,6 +263,7 @@ export const blueGrey600 = '#546e7a';
 export const blueGrey700 = '#455a64';
 export const blueGrey800 = '#37474f';
 export const blueGrey900 = '#263238';
+
 
 export const grey50 = '#fafafa';
 export const grey100 = '#f5f5f5';
